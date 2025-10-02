@@ -352,16 +352,16 @@ body {
     left: 50%;
     transform: translateX(-50%);
 }
-.layer-bottom { bottom: 50px; background-color: var(--cake-bottom); width: 280px; }
-.layer-middle { bottom: 100px; background-color: var(--cake-middle); width: 260px; }
-.layer-top { bottom: 150px; background-color: var(--cake-top); width: 240px; }
+.layer-bottom { bottom: 45px; background-color: var(--cake-bottom); width: 280px; }
+.layer-middle { bottom: 85px; background-color: var(--cake-middle); width: 260px; }
+.layer-top { bottom: 125px; background-color: var(--cake-top); width: 240px; }
 
 .icing {
     position: absolute;
     width: 240px;
     height: 35px; /* Thicker icing */
     background-color: white;
-    bottom: 200px;
+    bottom: 165px;
     border-radius: 50% / 25%;
     left: 50%;
     transform: translateX(-50%);
@@ -373,19 +373,19 @@ body {
     width: 25px; /* Wider drips */
     height: 35px; /* Longer drips */
     background: white;
-    border-radius: 0 0 50% 50%;
+    border-radius: 50%;
     top: 15px;
 }
-.drip1 { left: 40px; }
-.drip2 { left: 125px; height: 45px; } /* Slightly longer middle drip */
-.drip3 { left: 210px; }
+.drip1 { left: 40px; display:none;}
+.drip2 { left: 127px; height: 45px; } /* Slightly longer middle drip */
+.drip3 { left: 210px; display: none;}
 
 .candle {
     position: absolute;
     width: 12px; /* Thicker candle */
-    height: 50px; /* Taller candle */
+    height: 60px; /* Taller candle */
     background-color: var(--primary-red);
-    bottom: 210px;
+    bottom: 190px;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px 5px 0 0;
