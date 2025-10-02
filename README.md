@@ -1,4 +1,4 @@
-# 🎂 Birthday Web Template V3 - The Grand Celebration
+# 🎂 Birthday Web Template V3 - The Grand Celebration 🎂
 
 <img src="https://img.shields.io/github/repo-size/sapthesh/Birthday-V3?style=for-the-badge&logo=github&color=ff69b4&logoColor=white" alt="Repo Size"> <img src="https://img.shields.io/github/last-commit/sapthesh/Birthday-V3?style=for-the-badge&logo=github&color=f4d03f&logoColor=white" alt="Last Commit"> 
 <a href="https://hits.sh/github.com/sapthesh/Birthday-V3/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/Birthday-V3.svg?style=for-the-badge"/></a>
