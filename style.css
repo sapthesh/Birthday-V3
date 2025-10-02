@@ -374,7 +374,7 @@ body {
     height: 35px; /* Longer drips */
     background: white;
     border-radius: 50%;
-    top: 15px;
+    top: -15px;
 }
 .drip1 { left: 40px; display:none;}
 .drip2 { left: 127px; height: 45px; } /* Slightly longer middle drip */
